@@ -1,0 +1,10 @@
+# Data and Model Artifacts
+*.csv
+*.pkl
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+.env
