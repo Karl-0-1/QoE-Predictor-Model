@@ -1,4 +1,4 @@
-QoE-Predictor-Model/
-├── generate_data.py
-├── train_model.py
-└── find_best_settings.py
+pandas
+numpy
+scikit-learn
+joblib
